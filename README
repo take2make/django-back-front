@@ -1,1 +1,9 @@
 first steps in creating web page
+
+Для запуска:
+source djang-web/bin/activate
+
+make build
+make compose-start (запуск сайта)
+make compose-stop (остановка)
+make compose-manage-py cmd='createsuperuser' (создать админку)
